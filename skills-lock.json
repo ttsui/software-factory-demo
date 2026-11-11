@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "planning-and-task-breakdown": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/planning-and-task-breakdown/SKILL.md",
+      "computedHash": "11b51e8874c451ef4d0d18f4a56f9210310f5364cc1b176a7df1ff36014cef41"
+    }
+  }
+}
